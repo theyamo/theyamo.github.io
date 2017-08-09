@@ -1,0 +1,5 @@
+#+OPTIONS:   num:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t html-postamble:nil
+#+TITLE: Index
+#+AUTHOR: Timo Taipalus
+Welcome. This page may in the future lead to a bunch of stuff. But for now, enjoy the
+[[./nordkalottleden-guide.html][Nordkalottleden hiking guide]].
